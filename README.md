@@ -1,4 +1,3 @@
-# HCPedro.dev
 
 <h1 align="left">Hello 👋 how are you?</h1>
 
